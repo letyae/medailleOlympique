@@ -1,2 +1,5 @@
 # medailleOlympique
-front-end d’une page web sportive avec Angular
+
+Construition du  front-end d’une page web sportive afin que les utilisateurs puissent
+consulter l'historique des médailles olympiques.
+
