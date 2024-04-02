@@ -12,5 +12,5 @@ import { LandingpageComponent } from './landingpage/landingpage.component';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'medailleOlympique';
+  title = 'MedailleOlympique  ';
 }
