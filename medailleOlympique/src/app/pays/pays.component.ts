@@ -16,7 +16,6 @@ export class PaysComponent implements OnInit {
 
   ngOnInit(): void {
     //const paysId= this.router.snapshot.params['id'];
-    this.paysService.getPaysById(1);
+    this.pays=this.paysService.getPaysById(1);
   }
-
 }
