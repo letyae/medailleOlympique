@@ -18,5 +18,4 @@ export class PaysComponent implements OnInit {
     //const paysId= this.router.snapshot.params['id'];
     this.paysService.getPaysById(1);
   }
-
 }

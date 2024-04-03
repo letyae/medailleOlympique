@@ -11,29 +11,37 @@ export class PaysServices{
              id: 1,
              nom:  "France",
              codeIso:  "FR",
-             comtinent: "Europe",
-             nombreMedaille: 840
+             continent: "Europe",
+             storie: "",
+             nombreMedaille: 840,
+             urlFlag:""
         },
         {
             id: 2,
             nom:  "England",
             codeIso:  "En",
-            comtinent: "Europe",
-            nombreMedaille: 776
+            continent: "Europe",
+            storie: "",
+            nombreMedaille: 776,
+            urlFlag:""
        },
        {
         id: 3,
         nom:  "Italie",
         codeIso:  "ITA",
-        comtinent: "Europe",
-        nombreMedaille: 738
+        continent: "Europe",
+        storie: "",
+        nombreMedaille: 738,
+        urlFlag:""
    },
     {
         id: 4,
         nom:  "Canada",
         codeIso:  "CAN",
-        comtinent: "Amerique",
-        nombreMedaille: 551
+        continent: "Amerique",
+        storie: "",
+        nombreMedaille: 551,
+        urlFlag:""
     }
     ]
 
