@@ -14,7 +14,8 @@ export class PaysServices{
              continent: "Europe",
              storie: "",
              nombreMedaille: 840,
-             urlFlag:""
+             //urlFlag:"assets/Flag_of_french.jpeg"
+             urlFlag:"assets/Flag_of_Italy.jpg"
         },
         {
             id: 2,
@@ -44,7 +45,6 @@ export class PaysServices{
         urlFlag:""
     }
     ]
-
 
     getAllPays():paysParticipant[]
     {
