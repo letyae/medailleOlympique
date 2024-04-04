@@ -14,8 +14,7 @@ export class PaysServices{
              continent: "Europe",
              storie: "",
              nombreMedaille: 840,
-             //urlFlag:"assets/Flag_of_french.jpeg"
-             urlFlag:"assets/Flag_of_Italy.jpg"
+             urlFlag:"assets/Flag_of_french.jpeg"
         },
         {
             id: 2,
@@ -24,7 +23,7 @@ export class PaysServices{
             continent: "Europe",
             storie: "",
             nombreMedaille: 776,
-            urlFlag:""
+            urlFlag:"assets/Flag_of_England.jpg"
        },
        {
         id: 3,
@@ -33,7 +32,7 @@ export class PaysServices{
         continent: "Europe",
         storie: "",
         nombreMedaille: 738,
-        urlFlag:""
+        urlFlag:"assets/Flag_of_Italy.jpg"
    },
     {
         id: 4,
