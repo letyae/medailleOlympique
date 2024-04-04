@@ -41,7 +41,7 @@ export class PaysServices{
         continent: "Amerique",
         storie: "",
         nombreMedaille: 551,
-        urlFlag:""
+        urlFlag:"assets/Flag_of_canada.jpeg"
     }
     ]
 
