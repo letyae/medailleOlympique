@@ -9,13 +9,14 @@ import {CommonModule} from  '@angular/common';
   templateUrl: './pays.component.html',
   styleUrl: './pays.component.scss'
 })
-export class PaysComponent implements OnInit {
+export class PaysComponent {
   @Input() pays!: paysParticipant;
 
   constructor(private paysService: PaysServices ){}
-
+/** 
   ngOnInit(): void {
-    //const paysId= this.router.snapshot.params['id'];
-    this.pays=this.paysService.getPaysById(1);
-  }
+    const paysId= this.router.snapshot.params['id'];
+    this.pays=this.paysService.getPaysById(2);
+  } */
+
 }
