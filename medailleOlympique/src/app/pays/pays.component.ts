@@ -10,13 +10,14 @@ import {CommonModule} from  '@angular/common';
   styleUrl: './pays.component.scss'
 })
 export class PaysComponent {
-  @Input() pays!: paysParticipant;
+  @Input() current_pays!: paysParticipant;
 
   constructor(private paysService: PaysServices ){}
-/** 
+ 
   ngOnInit(): void {
-    const paysId= this.router.snapshot.params['id'];
-    this.pays=this.paysService.getPaysById(2);
-  } */
-
+   // const paysId= this.router.snapshot.params['id'];
+   // this.pays=this.paysService.getPaysById(1);
+   const x=this.paysService.getPaysById(1);
+  } 
+ 
 }

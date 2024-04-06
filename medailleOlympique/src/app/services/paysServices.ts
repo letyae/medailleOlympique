@@ -41,7 +41,7 @@ export class PaysServices{
         continent: "Amerique",
         storie: "",
         nombreMedaille: 551,
-        urlFlag:"assets/Flag_of_canada.jpeg"
+        urlFlag:"assets/Flag_of_canada0.jpg"
     }
     ]
 
@@ -51,7 +51,7 @@ export class PaysServices{
     }
 
     getPaysById(paysId: number): paysParticipant
-    {
+    { 
         const  pays = this.list_pays.find(pays => pays.id === paysId);
         if(pays){ 
         return pays;
