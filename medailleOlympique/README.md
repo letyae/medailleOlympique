@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MedailleOlympique
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
@@ -26,10 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-# medailleOlympique
-
-Construction du  front-end d’une page web sportive afin que les utilisateurs puissent
-consulter l'historique des médailles olympiques.
-
->>>>>>> cab78a6f81e7f34ea6ca781f566ebc5c1f130e09
