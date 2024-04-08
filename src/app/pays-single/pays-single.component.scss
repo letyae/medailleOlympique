@@ -1,0 +1,41 @@
+.app-pays-card{
+    box-sizing: border-box;
+    box-shadow: lightgray 4px 4px 20px;
+    width: 35%;
+
+    margin-left: 50px;
+    margin-top: 30px;
+    padding: 10px 10px ;
+    position: relative;
+    left: 25%;
+
+   img{       
+     width: 75%;
+     display: block;
+     margin: auto;       
+     //height: ;
+    }
+
+    h2,h4,p{
+        text-align: center;  
+    }
+
+   
+
+     button{
+            box-shadow: lightgray 3px 3px 10px;
+            color: black;
+            background-color: white;
+            border: none;
+            cursor: pointer;
+            &:active{
+                box-shadow: lightgray 0 0 5px;
+            }
+            display: block;
+            margin: auto; 
+        
+
+
+    }
+}
+

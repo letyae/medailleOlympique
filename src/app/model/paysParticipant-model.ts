@@ -3,7 +3,9 @@ export class paysParticipant{
         public id: number,
         public nom:  string,
         public codeIso:  string,
-        public comtinent: string,
-        public nombreMedaille: number
+        public continent: string,
+        public storie: string,
+        public nombreMedaille: number,
+        public urlFlag:string
     ){}
 }
