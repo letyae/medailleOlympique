@@ -14,10 +14,10 @@ export class PaysComponent {
 
   constructor(private paysService: PaysServices ){}
  
-  ngOnInit(): void {
+ // ngOnInit(): void {
    // const paysId= this.router.snapshot.params['id'];
    // this.pays=this.paysService.getPaysById(1);
-   const x=this.paysService.getPaysById(1);
-  } 
+ //  const x=this.paysService.getPaysById(1);
+ // } 
  
 }

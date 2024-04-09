@@ -4,6 +4,7 @@ export class medailleOlympique{
         public discipline:  string,
         public type:  string,
         public paysAthlete: string,
-        public nomAthlete: string,                
+        public nomAthlete: string,  
+        public urlMedaille:string              
     ){}
 }
