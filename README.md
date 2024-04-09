@@ -32,4 +32,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Construction du  front-end d’une page web sportive afin que les utilisateurs puissent
 consulter l'historique des médailles olympiques.
 
->>>>>>> cab78a6f81e7f34ea6ca781f566ebc5c1f130e09
+>>>>>>> cab78a6f81e7f34ea6ca781f566ebc5c1f130e09 
