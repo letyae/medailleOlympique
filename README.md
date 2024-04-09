@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MedailleOlympique
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
@@ -32,4 +32,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Construction du  front-end d’une page web sportive afin que les utilisateurs puissent
 consulter l'historique des médailles olympiques.
 
->>>>>>> cab78a6f81e7f34ea6ca781f566ebc5c1f130e09 
