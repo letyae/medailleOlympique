@@ -1,4 +1,6 @@
 <div class=".grid-container">
-    <app-medaille></app-medaille>
+    <app-medaille *ngFor="let medaille_element of list_medaille"   [current_medaille]="medaille_element"></app-medaille>
 </div>
+
+
 

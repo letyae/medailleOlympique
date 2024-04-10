@@ -4,12 +4,12 @@ import { RouterOutlet } from '@angular/router';
 import {HeaderComponent } from './header/header.component';
 import { LandingpageComponent } from './landingpage/landingpage.component';
 import { PaysComponent } from './pays/pays.component';
-
+import {MedailleListComponent} from './medaille-list/medaille-list.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, RouterOutlet,HeaderComponent,LandingpageComponent,PaysComponent],
+  imports: [CommonModule, RouterOutlet,HeaderComponent,LandingpageComponent,PaysComponent,MedailleListComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })

@@ -6,6 +6,6 @@ export class paysParticipant{
         public continent: string,
         public storie: string,
         public nombreMedaille: number,
-        public urlFlag:string
+        public urlFlag: string
     ){}
 }

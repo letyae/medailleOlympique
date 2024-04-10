@@ -12,15 +12,15 @@ export class MedailleServices{
              discipline:  "Karatéka",
              type:  "Contact",
              paysAthlete: "France",
-             nomAthlete: "Akakpo",
+             nomAthlete: "lyne Akakpo",
              urlMedaille:"assets/Flag_of_french.jpeg"
         },
         {
             id: 2,
             discipline:  "Judo",
             type:  "Contact",
-            paysAthlete: "France",
-            nomAthlete: "Akakpo",
+            paysAthlete: "Chine",
+            nomAthlete: " Jet lee",
             urlMedaille:"assets/Flag_of_french.jpeg"
        },
     ]
@@ -28,7 +28,7 @@ export class MedailleServices{
 
     getAllMedaille():medailleOlympique[]
     {
-    return this.list_medaille;
+        return this.list_medaille;
     }
 
     getMedailleById(medailleId: number): medailleOlympique
