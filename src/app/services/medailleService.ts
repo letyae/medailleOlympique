@@ -91,7 +91,7 @@ export class MedailleServices{
     id: 9,
     discipline:  "Karatéka",
     type:  "Contact",
-    paysAthlete: "Angleterre",
+    paysAthlete: "England",
     nomAthlete: "Steven Da Costa",
     urlMedaille:"assets/or2.jpg",
     genre:"Homme",
@@ -101,7 +101,7 @@ export class MedailleServices{
    id: 10,
    discipline:  "boxe",
    type:  "Contact",
-   paysAthlete: "Angleterre",
+   paysAthlete: "England",
    nomAthlete: "Djamili-Dini Aboudou Moindze",
    urlMedaille:"assets/or1.jpg",
    genre:"Homme",
@@ -111,7 +111,7 @@ export class MedailleServices{
 id: 11,
 discipline: "Judo",
 type:  "Contact",
-paysAthlete: "Angleterre",
+paysAthlete: "England",
 nomAthlete: "Teddy Rinner",
 urlMedaille:"assets/argent.jpg",
 genre:"Homme",
@@ -121,7 +121,7 @@ annee:2020
    id: 12,
    discipline:  "Judo",
    type:  "Contact",
-   paysAthlete: "Angleterre",
+   paysAthlete: "England",
    nomAthlete: "Clarisse Agbegninou",
    urlMedaille:"assets/or3.png",
    genre:"Dame",
@@ -131,7 +131,7 @@ annee:2020
 id: 13,
 discipline: "Natation",
 type: "Individuel",
-paysAthlete: "Angleterre",
+paysAthlete: "England",
 nomAthlete: "Leon Marchand",
 urlMedaille:"assets/or3.png",
 genre:"Homme",
@@ -141,7 +141,7 @@ annee:2020
 id: 14,
 discipline:  "Natation",
 type:  "Individuel",
-paysAthlete: "Angleterre",
+paysAthlete: "England",
 nomAthlete: "Marie Wattel",
 urlMedaille:"assets/bronze1.jpg",
 genre:"Dame",
@@ -151,7 +151,7 @@ annee:2012
 id: 15,
 discipline:  "Athletisme",
 type:  "Individuel",
-paysAthlete: "Angleterre",
+paysAthlete: "England",
 nomAthlete: "Marie Wattel",
 urlMedaille:"assets/bronze1.jpg",
 genre:"Dame",
@@ -161,13 +161,173 @@ annee:2012
     id: 16,
     discipline:  "Saut à la perche",
     type:  "Individuel",
-    paysAthlete: "Angleterre",
+    paysAthlete: "England",
     nomAthlete: "Renaud Lavillenie",
     urlMedaille:"assets/bronze1.jpg",
     genre:"Homme",
     annee:2020
+},
+{    id: 17, 
+    discipline:  "Karatéka",
+    type:  "Contact",
+    paysAthlete: "Canada",
+    nomAthlete: "Steven Da Costa",
+    urlMedaille:"assets/or2.jpg",
+    genre:"Homme",
+    annee:2012
+},
+{
+   id: 18,
+   discipline:  "boxe",
+   type:  "Contact",
+   paysAthlete: "Canada",
+   nomAthlete: "Djamili-Dini Aboudou Moindze",
+   urlMedaille:"assets/or1.jpg",
+   genre:"Homme",
+   annee:2012
+},
+{
+id: 19,
+discipline: "Judo",
+type:  "Contact",
+paysAthlete: "Canada",
+nomAthlete: "Teddy Rinner",
+urlMedaille:"assets/argent.jpg",
+genre:"Homme",
+annee:2020
+},
+{
+   id: 20,
+   discipline: "Judo",
+   type: "Contact",
+   paysAthlete: "Canada",
+   nomAthlete: "Clarisse Agbegninou",
+   urlMedaille:"assets/or3.png",
+   genre:"Dame",
+   annee:2020
+},
+{
+id: 21,
+discipline: "Natation",
+type: "Individuel",
+paysAthlete: "Canada",
+nomAthlete: "Leon Marchand",
+urlMedaille:"assets/or3.png",
+genre:"Homme",
+annee:2020
+},
+{
+id: 22,
+discipline:  "Natation",
+type:  "Individuel",
+paysAthlete: "Canada",
+nomAthlete: "Marie Wattel",
+urlMedaille:"assets/bronze1.jpg",
+genre:"Dame",
+annee:2012
+},
+{
+id: 23,
+discipline:  "Athletisme",
+type:  "Individuel",
+paysAthlete: "Canada",
+nomAthlete: "Marie Wattel",
+urlMedaille:"assets/bronze1.jpg",
+genre:"Dame",
+annee:2012
+},
+{
+id: 24,
+discipline:  "Saut à la perche",
+type:  "Individuel",
+paysAthlete: "Canada",
+nomAthlete: "Renaud Lavillenie",
+urlMedaille:"assets/bronze1.jpg",
+genre:"Homme",
+annee:2020
+},
+
+{
+id: 25,
+discipline:  "Karatéka",
+type:  "Contact",
+paysAthlete: "Italie",
+nomAthlete: "Steven Da Costa",
+urlMedaille:"assets/or2.jpg",
+genre:"Homme",
+annee:2012
+},
+{
+id: 26,
+discipline:  "boxe",
+type:  "Contact",
+paysAthlete: "Italie",
+nomAthlete: "Djamili-Dini Aboudou Moindze",
+urlMedaille:"assets/or1.jpg",
+genre:"Homme",
+annee:2012
+},
+{
+id: 27,
+discipline: "Judo",
+type:  "Contact",
+paysAthlete: "Italie",
+nomAthlete: "Teddy Rinner",
+urlMedaille:"assets/argent.jpg",
+genre:"Homme",
+annee:2020
+},
+{
+id: 28,
+discipline:  "Judo",
+type:  "Contact",
+paysAthlete: "Italie",
+nomAthlete: "Clarisse Agbegninou",
+urlMedaille:"assets/or3.png",
+genre:"Dame",
+annee:2020
+},
+{
+id: 29,
+discipline: "Natation",
+type: "Individuel",
+paysAthlete: "Italie",
+nomAthlete: "Leon Marchand",
+urlMedaille:"assets/or3.png",
+genre:"Homme",
+annee:2020
+},
+{
+id: 30,
+discipline:  "Natation",
+type:  "Individuel",
+paysAthlete: "Italie",
+nomAthlete: "Marie Wattel",
+urlMedaille:"assets/bronze1.jpg",
+genre:"Dame",
+annee:2012
+},
+{
+id: 31,
+discipline:  "Athletisme",
+type:  "Individuel",
+paysAthlete: "Italie",
+nomAthlete: "Marie Wattel",
+urlMedaille:"assets/bronze1.jpg",
+genre:"Dame",
+annee:2012
+},
+{
+id: 32,
+discipline:  "Saut à la perche",
+type:  "Individuel",
+paysAthlete: "Italie",
+nomAthlete: "Renaud Lavillenie",
+urlMedaille:"assets/bronze1.jpg",
+genre:"Homme",
+annee:2020
 }
-  ]
+]
 
   
     getAllMedaille():medailleOlympique[]
