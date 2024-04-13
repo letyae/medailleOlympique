@@ -1,7 +1,7 @@
 <div class="app-pays-card">
-    <h2> {{current_medaille.nomAthlete}}</h2> 
+   <div div style="text-align: center;">   <h2 style="display: inline;">{{current_medaille.discipline}}: </h2>  
+       <h3 style="display: inline;"> {{current_medaille.nomAthlete}} </h3>
+    </div> 
 <!---->    <img src="{{current_medaille.urlMedaille}}" alt="Url medaille">
-    <h4>  {{current_medaille.discipline}} </h4> 
-    <h4>  {{current_medaille.type}} </h4>
-    <p>   {{current_medaille.paysAthlete}}</p> 
+    <h2>  {{current_medaille.paysAthlete}}, ({{current_medaille.annee}}) </h2> 
 </div>

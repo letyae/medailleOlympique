@@ -12,7 +12,7 @@ export class MedailleServices{
              type:  "Contact",
              paysAthlete: "France",
              nomAthlete: "Steven Da Costa",
-             urlMedaille:"assets/or2.jpg",
+             urlMedaille:"assets/or1.jpg",
              genre:"Homme",
              annee:2012
         },
@@ -32,7 +32,7 @@ export class MedailleServices{
         type:  "Contact",
         paysAthlete: "France",
         nomAthlete: "Teddy Rinner",
-        urlMedaille:"assets/argent.jpg",
+        urlMedaille:"assets/or1.jpg",
         genre:"Homme",
         annee:2020
    },
@@ -42,7 +42,7 @@ export class MedailleServices{
             type: "Contact",
             paysAthlete: "France",
             nomAthlete: "Clarisse Agbegninou",
-            urlMedaille:"assets/or3.png",
+            urlMedaille:"assets/or1.jpg", 
             genre:"Dame",
             annee:2020
        },
@@ -52,7 +52,7 @@ export class MedailleServices{
         type: "Individuel",
         paysAthlete: "France",
         nomAthlete: "Leon Marchand",
-        urlMedaille:"assets/or3.png",
+        urlMedaille:"assets/or1.jpg",
         genre:"Homme",
         annee:2020
    },
@@ -62,7 +62,7 @@ export class MedailleServices{
     type:  "Individuel",
     paysAthlete: "France",
     nomAthlete: "Marie Wattel",
-    urlMedaille:"assets/bronze1.jpg",
+    urlMedaille:"assets/or1.jpg",
     genre:"Dame",
     annee:2012
 },
@@ -72,7 +72,7 @@ export class MedailleServices{
     type:  "Individuel",
     paysAthlete: "France",
     nomAthlete: "Marie Wattel",
-    urlMedaille:"assets/bronze1.jpg",
+    urlMedaille:"assets/or1.jpg",
     genre:"Dame",
     annee:2012
 },
@@ -82,7 +82,7 @@ export class MedailleServices{
     type:  "Individuel",
     paysAthlete: "France",
     nomAthlete: "Renaud Lavillenie",
-    urlMedaille:"assets/bronze1.jpg",
+    urlMedaille:"assets/argent4.png",
     genre:"Homme",
     annee:2020
 },
@@ -93,7 +93,7 @@ export class MedailleServices{
     type:  "Contact",
     paysAthlete: "England",
     nomAthlete: "Steven Da Costa",
-    urlMedaille:"assets/or2.jpg",
+    urlMedaille:"assets/argent4.png",
     genre:"Homme",
     annee:2012
 },
@@ -103,7 +103,7 @@ export class MedailleServices{
    type:  "Contact",
    paysAthlete: "England",
    nomAthlete: "Djamili-Dini Aboudou Moindze",
-   urlMedaille:"assets/or1.jpg",
+   urlMedaille:"assets/argent4.png",
    genre:"Homme",
    annee:2012
 },
@@ -113,7 +113,7 @@ discipline: "Judo",
 type:  "Contact",
 paysAthlete: "England",
 nomAthlete: "Teddy Rinner",
-urlMedaille:"assets/argent.jpg",
+urlMedaille:"assets/argent4.png",
 genre:"Homme",
 annee:2020
 },
@@ -123,39 +123,39 @@ annee:2020
    type:  "Contact",
    paysAthlete: "England",
    nomAthlete: "Clarisse Agbegninou",
-   urlMedaille:"assets/or3.png",
+   urlMedaille:"assets/or1.jpg",
    genre:"Dame",
    annee:2020
 },
 {
-id: 13,
-discipline: "Natation",
-type: "Individuel",
-paysAthlete: "England",
-nomAthlete: "Leon Marchand",
-urlMedaille:"assets/or3.png",
-genre:"Homme",
-annee:2020
+    id: 13,
+    discipline: "Natation",
+    type: "Individuel",
+    paysAthlete: "England",
+    nomAthlete: "Leon Marchand",
+    urlMedaille:"assets/bronze1.jpg",
+    genre:"Homme",
+    annee:2020
+},
+    {
+    id: 14,
+    discipline:  "Natation",
+    type:  "Individuel",
+    paysAthlete: "England",
+    nomAthlete: "Marie Wattel",
+    urlMedaille:"assets/bronze1.jpg",
+    genre:"Dame",
+    annee:2012
 },
 {
-id: 14,
-discipline:  "Natation",
-type:  "Individuel",
-paysAthlete: "England",
-nomAthlete: "Marie Wattel",
-urlMedaille:"assets/bronze1.jpg",
-genre:"Dame",
-annee:2012
-},
-{
-id: 15,
-discipline:  "Athletisme",
-type:  "Individuel",
-paysAthlete: "England",
-nomAthlete: "Marie Wattel",
-urlMedaille:"assets/bronze1.jpg",
-genre:"Dame",
-annee:2012
+    id: 15,
+    discipline:  "Athletisme",
+    type:  "Individuel",
+    paysAthlete: "England",
+    nomAthlete: "Marie Wattel",
+    urlMedaille:"assets/bronze1.jpg",
+    genre:"Dame",
+    annee:2012
 },
 {
     id: 16,
@@ -163,7 +163,7 @@ annee:2012
     type:  "Individuel",
     paysAthlete: "England",
     nomAthlete: "Renaud Lavillenie",
-    urlMedaille:"assets/bronze1.jpg",
+    urlMedaille:"assets/or1.jpg",
     genre:"Homme",
     annee:2020
 },
@@ -172,7 +172,7 @@ annee:2012
     type:  "Contact",
     paysAthlete: "Canada",
     nomAthlete: "Steven Da Costa",
-    urlMedaille:"assets/or2.jpg",
+    urlMedaille:"assets/or1.jpg", 
     genre:"Homme",
     annee:2012
 },
@@ -192,7 +192,7 @@ discipline: "Judo",
 type:  "Contact",
 paysAthlete: "Canada",
 nomAthlete: "Teddy Rinner",
-urlMedaille:"assets/argent.jpg",
+urlMedaille:"assets/argent4.png",
 genre:"Homme",
 annee:2020
 },
@@ -253,7 +253,7 @@ discipline:  "Karatéka",
 type:  "Contact",
 paysAthlete: "Italie",
 nomAthlete: "Steven Da Costa",
-urlMedaille:"assets/or2.jpg",
+urlMedaille:"assets/argent1.jpg",
 genre:"Homme",
 annee:2012
 },
@@ -263,7 +263,7 @@ discipline:  "boxe",
 type:  "Contact",
 paysAthlete: "Italie",
 nomAthlete: "Djamili-Dini Aboudou Moindze",
-urlMedaille:"assets/or1.jpg",
+urlMedaille:"assets/argent1.jpg",
 genre:"Homme",
 annee:2012
 },
@@ -273,7 +273,7 @@ discipline: "Judo",
 type:  "Contact",
 paysAthlete: "Italie",
 nomAthlete: "Teddy Rinner",
-urlMedaille:"assets/argent.jpg",
+urlMedaille:"assets/argent1.jpg",
 genre:"Homme",
 annee:2020
 },
@@ -283,7 +283,7 @@ discipline:  "Judo",
 type:  "Contact",
 paysAthlete: "Italie",
 nomAthlete: "Clarisse Agbegninou",
-urlMedaille:"assets/or3.png",
+urlMedaille:"assets/bronze1.jpg",
 genre:"Dame",
 annee:2020
 },
@@ -293,7 +293,7 @@ discipline: "Natation",
 type: "Individuel",
 paysAthlete: "Italie",
 nomAthlete: "Leon Marchand",
-urlMedaille:"assets/or3.png",
+urlMedaille:"assets/bronze1.jpg",
 genre:"Homme",
 annee:2020
 },
@@ -328,7 +328,6 @@ genre:"Homme",
 annee:2020
 }
 ]
-
   
     getAllMedaille():medailleOlympique[]
     {
