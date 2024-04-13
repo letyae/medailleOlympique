@@ -3,6 +3,7 @@ background-color:white;
 
 }
 header h1{
+    color: #242424;
     text-align: center;
 }
 
@@ -18,4 +19,17 @@ a{
     margin-left:  100px;
     font-size: 1.5em;
     padding-bottom: 15px;
+}
+
+
+a:hover{
+    text-decoration:underline;
+}
+
+.entete-logo{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: end;
+  margin-left: 10px;
 }

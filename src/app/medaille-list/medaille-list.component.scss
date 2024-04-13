@@ -1,22 +1,13 @@
-
 .grid-container{ 
-  background-color:#1F2039;
-  img {
-    width: 5%; /* Ajuste la largeur de l'image pour remplir la cellule de la grille */
-    height: auto; /* Ajuste automatiquement la hauteur en fonction de la largeur */
-    object-fit: cover; /* Ajuste l'image pour remplir la zone tout en conservant son ratio */
-  }
-}
+      background-color:#1F2039;
+  
+      img {
+        width: 5%; /* Ajuste la largeur de l'image pour remplir la cellule de la grille */
+        height: auto; /* Ajuste automatiquement la hauteur en fonction de la largeur */
+        object-fit: cover; /* Ajuste l'image pour remplir la zone tout en conservant son ratio */
+      }
 
-h2,h4,p{
-  color: #242424;
-  text-decoration: none;
-  text-align: center;   
-}
-
-
-.grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 2fr));
-    gap: 10px;
+    gap: 15px;
   }
