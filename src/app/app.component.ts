@@ -9,7 +9,7 @@ import {MedailleListComponent} from './medaille-list/medaille-list.component';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, RouterOutlet,HeaderComponent,LandingpageComponent,PaysComponent,MedailleListComponent],
+  imports: [CommonModule, RouterOutlet,HeaderComponent,PaysComponent,MedailleListComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })

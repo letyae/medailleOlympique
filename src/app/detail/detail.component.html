@@ -1,1 +1,19 @@
-<p>detail works!</p>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+
+<div class="app-detail-card">
+    
+    <div  style="text-align: center;"> 
+       <h2 style="display: inline;">{{medaille.discipline}}: </h2>  
+       <h3 style="display: inline;"> {{medaille.nomAthlete}} </h3>
+    </div> 
+    
+    <div> 
+        <img class="img-medaille" src="{{medaille.urlMedaille}}" alt="Url medaille">      
+    </div> 
+
+    <h2>  {{medaille.paysAthlete}}, ({{medaille.annee}}) </h2> 
+
+    <div class="description">{{medaille.description}}</div>
+</div> 
