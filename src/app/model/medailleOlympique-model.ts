@@ -7,7 +7,7 @@ export class medailleOlympique{
         public nomAthlete: string,  
         public urlMedaille: string,
         public genre: string,
-        public annee: number,           
-         
+        public annee: number,  
+        public description: string           
     ){}
 }

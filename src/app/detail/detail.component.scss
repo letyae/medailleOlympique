@@ -1,0 +1,43 @@
+.app-detail-card{
+    margin-top: 20px;
+    background-color:#1F2039;
+    
+    h2,h3,h4,p{
+        font-family: "Manrope", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 470;
+        font-style: normal;
+      
+        text-align: center;            
+        text-decoration: none;
+       // background-color: #1F2039;
+        
+        color: antiquewhite;
+
+        margin-bottom: 30px;
+      }
+}
+
+img{
+    margin-left: 35%;
+    width: 30%;
+    height: 26%;
+}
+
+.description{
+    text-align: center;
+    width: 50%;
+    height: 150px;
+    margin: auto;
+
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 470;
+    font-style: normal;
+  
+    text-align: center;            
+    text-decoration: none;
+    background-color: #1F2039;
+    color: antiquewhite;
+    text-justify: inter-word;
+   }
