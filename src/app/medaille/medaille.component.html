@@ -3,12 +3,20 @@
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
 
 <div class="app-pays-card">
-    <div  style="text-align: center;">   <h2 style="display: inline;">{{current_medaille.discipline}}: </h2>  
+   <div  style="text-align: center;"> 
+       <h2 style="display: inline;">{{current_medaille.discipline}}: </h2>  
        <h3 style="display: inline;"> {{current_medaille.nomAthlete}} </h3>
     </div> 
-<!---->    <img src="{{current_medaille.urlMedaille}}" alt="Url medaille">
-    <h2>  {{current_medaille.paysAthlete}}, ({{current_medaille.annee}}) </h2> 
+<div> 
+    <a class="container" href="">
+        <img class="img-medaille" src="{{current_medaille.urlMedaille}}" alt="Url medaille">
+        <div class="text-overlay">Voir détail</div> 
+    </a> 
+</div> 
 
-    <button>View</button>
+   <!-- <button>View</button> -->
+    <h2>  {{current_medaille.paysAthlete}}, ({{current_medaille.annee}}) </h2> 
+    
+   
 
 </div>

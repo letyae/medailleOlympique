@@ -1,6 +1,7 @@
 .app-pays-card{
     margin-top: 20px;
-     h2,h3,h4,p{
+    
+    h2,h3,h4,p{
         font-family: "Manrope", sans-serif;
         font-optical-sizing: auto;
         font-weight: 470;
@@ -11,5 +12,42 @@
         background-color: #1F2039;
         
         color: #F9F8FF;
+
+        margin-bottom: 10px;
       }
 }
+
+img{
+    margin-left: 40px;
+    width: 70%;
+    height: 70%;
+}
+
+.container{
+    position: relative;
+}
+            
+
+.text-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; 
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    font-size: 1.4em;
+    color: white;
+    //background-color:red;
+    margin-left: 40px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: none;
+}
+
+.app-pays-card  a:hover .text-overlay{
+  display: flex;
+  }  
