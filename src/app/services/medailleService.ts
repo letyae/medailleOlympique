@@ -14,8 +14,9 @@ export class MedailleServices{
              nomAthlete: "Steven Da Costa",
              urlMedaille:"assets/or1.jpg",
              genre:"Homme",
-             annee:2012
-        },
+             annee:2012,
+             description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
+              },
         {
             id: 2,
             discipline:  "boxe",
@@ -24,8 +25,9 @@ export class MedailleServices{
             nomAthlete: "Djamili-Dini Aboudou Moindze",
             urlMedaille:"assets/or1.jpg",
             genre:"Homme",
-            annee:2012
-       },
+            annee:2012,
+            description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
+          },
        {
         id: 3,
         discipline: "Judo",
@@ -34,8 +36,9 @@ export class MedailleServices{
         nomAthlete: "Teddy Rinner",
         urlMedaille:"assets/or1.jpg",
         genre:"Homme",
-        annee:2020
-   },
+        annee:2020,
+        description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
+},
         {
             id: 4,
             discipline: "Judo",
@@ -44,8 +47,9 @@ export class MedailleServices{
             nomAthlete: "Clarisse Agbegninou",
             urlMedaille:"assets/or1.jpg", 
             genre:"Dame",
-            annee:2020
-       },
+            annee:2020,
+            description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
+        },
        {
         id: 5,
         discipline: "Natation",
@@ -54,8 +58,9 @@ export class MedailleServices{
         nomAthlete: "Leon Marchand",
         urlMedaille:"assets/or1.jpg",
         genre:"Homme",
-        annee:2020
-   },
+        annee:2020,
+        description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
+    },
    {
     id: 6,
     discipline:  "Natation",
@@ -64,7 +69,8 @@ export class MedailleServices{
     nomAthlete: "Marie Wattel",
     urlMedaille:"assets/or1.jpg",
     genre:"Dame",
-    annee:2012
+    annee:2012,
+    description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
     id: 7,
@@ -74,7 +80,8 @@ export class MedailleServices{
     nomAthlete: "Marie Wattel",
     urlMedaille:"assets/or1.jpg",
     genre:"Dame",
-    annee:2012
+    annee:2012,
+    description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
     id: 8,
@@ -84,7 +91,8 @@ export class MedailleServices{
     nomAthlete: "Renaud Lavillenie",
     urlMedaille:"assets/argent4.png",
     genre:"Homme",
-    annee:2020
+    annee:2020,
+    description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 
 {
@@ -95,7 +103,8 @@ export class MedailleServices{
     nomAthlete: "Steven Da Costa",
     urlMedaille:"assets/argent4.png",
     genre:"Homme",
-    annee:2012
+    annee:2012,
+    description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
    id: 10,
@@ -105,7 +114,8 @@ export class MedailleServices{
    nomAthlete: "Djamili-Dini Aboudou Moindze",
    urlMedaille:"assets/argent4.png",
    genre:"Homme",
-   annee:2012
+   annee:2012,
+   description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 11,
@@ -115,7 +125,8 @@ paysAthlete: "England",
 nomAthlete: "Teddy Rinner",
 urlMedaille:"assets/argent4.png",
 genre:"Homme",
-annee:2020
+annee:2020,
+description: "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
    id: 12,
@@ -125,7 +136,8 @@ annee:2020
    nomAthlete: "Clarisse Agbegninou",
    urlMedaille:"assets/or1.jpg",
    genre:"Dame",
-   annee:2020
+   annee:2020,
+   description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
     id: 13,
@@ -135,7 +147,8 @@ annee:2020
     nomAthlete: "Leon Marchand",
     urlMedaille:"assets/bronze1.jpg",
     genre:"Homme",
-    annee:2020
+    annee:2020,
+    description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
     {
     id: 14,
@@ -145,7 +158,8 @@ annee:2020
     nomAthlete: "Marie Wattel",
     urlMedaille:"assets/bronze1.jpg",
     genre:"Dame",
-    annee:2012
+    annee:2012,
+    description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
     id: 15,
@@ -155,7 +169,8 @@ annee:2020
     nomAthlete: "Marie Wattel",
     urlMedaille:"assets/bronze1.jpg",
     genre:"Dame",
-    annee:2012
+    annee:2012,
+    description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
     id: 16,
@@ -165,7 +180,8 @@ annee:2020
     nomAthlete: "Renaud Lavillenie",
     urlMedaille:"assets/or1.jpg",
     genre:"Homme",
-    annee:2020
+    annee:2020,
+    description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {    id: 17, 
     discipline:  "Karatéka",
@@ -174,7 +190,8 @@ annee:2020
     nomAthlete: "Steven Da Costa",
     urlMedaille:"assets/or1.jpg", 
     genre:"Homme",
-    annee:2012
+    annee:2012,
+    description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
    id: 18,
@@ -184,7 +201,8 @@ annee:2020
    nomAthlete: "Djamili-Dini Aboudou Moindze",
    urlMedaille:"assets/or1.jpg",
    genre:"Homme",
-   annee:2012
+   annee:2012,
+   description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 19,
@@ -194,7 +212,8 @@ paysAthlete: "Canada",
 nomAthlete: "Teddy Rinner",
 urlMedaille:"assets/argent4.png",
 genre:"Homme",
-annee:2020
+annee:2020,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
    id: 20,
@@ -204,7 +223,8 @@ annee:2020
    nomAthlete: "Clarisse Agbegninou",
    urlMedaille:"assets/or3.png",
    genre:"Dame",
-   annee:2020
+   annee:2020,
+  description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 21,
@@ -214,7 +234,8 @@ paysAthlete: "Canada",
 nomAthlete: "Leon Marchand",
 urlMedaille:"assets/or3.png",
 genre:"Homme",
-annee:2020
+annee:2020,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 22,
@@ -224,7 +245,8 @@ paysAthlete: "Canada",
 nomAthlete: "Marie Wattel",
 urlMedaille:"assets/bronze1.jpg",
 genre:"Dame",
-annee:2012
+annee:2012,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 23,
@@ -234,7 +256,8 @@ paysAthlete: "Canada",
 nomAthlete: "Marie Wattel",
 urlMedaille:"assets/bronze1.jpg",
 genre:"Dame",
-annee:2012
+annee:2012,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 24,
@@ -244,7 +267,8 @@ paysAthlete: "Canada",
 nomAthlete: "Renaud Lavillenie",
 urlMedaille:"assets/bronze1.jpg",
 genre:"Homme",
-annee:2020
+annee:2020,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 
 {
@@ -255,7 +279,8 @@ paysAthlete: "Italie",
 nomAthlete: "Steven Da Costa",
 urlMedaille:"assets/argent1.jpg",
 genre:"Homme",
-annee:2012
+annee:2012,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 26,
@@ -265,7 +290,8 @@ paysAthlete: "Italie",
 nomAthlete: "Djamili-Dini Aboudou Moindze",
 urlMedaille:"assets/argent1.jpg",
 genre:"Homme",
-annee:2012
+annee:2012,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 27,
@@ -275,7 +301,8 @@ paysAthlete: "Italie",
 nomAthlete: "Teddy Rinner",
 urlMedaille:"assets/argent1.jpg",
 genre:"Homme",
-annee:2020
+annee:2020,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 28,
@@ -285,7 +312,8 @@ paysAthlete: "Italie",
 nomAthlete: "Clarisse Agbegninou",
 urlMedaille:"assets/bronze1.jpg",
 genre:"Dame",
-annee:2020
+annee:2020,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 29,
@@ -295,7 +323,8 @@ paysAthlete: "Italie",
 nomAthlete: "Leon Marchand",
 urlMedaille:"assets/bronze1.jpg",
 genre:"Homme",
-annee:2020
+annee:2020,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 30,
@@ -305,7 +334,8 @@ paysAthlete: "Italie",
 nomAthlete: "Marie Wattel",
 urlMedaille:"assets/bronze1.jpg",
 genre:"Dame",
-annee:2012
+annee:2012,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 31,
@@ -315,7 +345,8 @@ paysAthlete: "Italie",
 nomAthlete: "Marie Wattel",
 urlMedaille:"assets/bronze1.jpg",
 genre:"Dame",
-annee:2012
+annee:2012,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 },
 {
 id: 32,
@@ -325,7 +356,8 @@ paysAthlete: "Italie",
 nomAthlete: "Renaud Lavillenie",
 urlMedaille:"assets/bronze1.jpg",
 genre:"Homme",
-annee:2020
+annee:2020,
+description:  "Au cœur de l'esprit olympique se trouve l'athlète, un individu dévoué et passionné qui incarne les valeurs d'excellence, d'effort et de respect. Ces hommes et femmes extraordinaires représentent le summum de la compétition sportive, s'entraînant sans relâche pour atteindre les plus hauts sommets de leur discipline"
 }
 ]
   

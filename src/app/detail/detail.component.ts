@@ -21,4 +21,5 @@ export class DetailComponent implements OnInit {
     this.medaille=this.medailleService.getMedailleById(paysId);
     console.log("id="+paysId)
   }
+  
 }
