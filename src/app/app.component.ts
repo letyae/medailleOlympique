@@ -5,12 +5,13 @@ import {HeaderComponent } from './header/header.component';
 import { LandingpageComponent } from './landingpage/landingpage.component';
 import { PaysComponent } from './pays/pays.component';
 import {MedailleListComponent} from './medaille-list/medaille-list.component';
+import { FooterComponent } from './footer/footer.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
 
-  imports: [CommonModule, RouterOutlet,HeaderComponent],
+  imports: [CommonModule, RouterOutlet,HeaderComponent,FooterComponent],
 
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
