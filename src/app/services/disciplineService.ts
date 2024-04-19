@@ -23,9 +23,9 @@ export class DisciplineServices{
         },
     ];
 
-    getAllDiscipline():DisciplineSportive[]
+    getAllDisciplines():DisciplineSportive[]
     {
-        return this.list_discipline;
+        return this.list_discipline ;
     }
 
     getDisciplineById(disciplineId: number): DisciplineSportive
