@@ -10,7 +10,7 @@ export class DisciplineServices{
         {
           id: 1,
           nom: "Boxe",
-          type: "",
+          type: "combat à deux",
           popularite: "",
           histoire: ""
         },
