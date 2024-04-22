@@ -12,14 +12,16 @@ export class DisciplineServices{
           nom: "Boxe",
           type: "combat à deux",
           popularite: "",
-          histoire: ""
+          histoire: "",
+          url:""
         },
          {
             id: 2,
             nom: "Natation",
             type: "",
             popularite: "",
-            histoire: ""
+            histoire: "",
+            url:""
         },
     ];
 

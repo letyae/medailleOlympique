@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
-
+import { Component, Input } from '@angular/core';
+import { DisciplineSportive } from '../model/DisciplineSportive-model';
+import { DisciplineServices } from '../services/disciplineService';
 @Component({
   selector: 'app-discipline',
   standalone: true,
@@ -8,5 +9,6 @@ import { Component } from '@angular/core';
   styleUrl: './discipline.component.scss'
 })
 export class DisciplineComponent {
-
-}
+  @Input() current_discipline!: DisciplineSportive;
+  constructor(private disciplineService: DisciplineServices){}
+  }
