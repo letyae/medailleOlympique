@@ -4,5 +4,6 @@ export class DisciplineSportive{
         public  type: string,
         public  popularite: string,
         public histoire:string,
+        public url:string
     ){}     
 }

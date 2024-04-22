@@ -9,7 +9,7 @@ import {MedailleServices} from '../services/medailleService'
   templateUrl: './medaille.component.html',
   styleUrl: './medaille.component.scss'
 })
-export class MedailleComponent {
+export class MedailleComponent{
 @Input() current_medaille!: medailleOlympique;
 constructor(private medailleService: MedailleServices){}
 }
