@@ -1,0 +1,40 @@
+.app-discipline-single-card{
+    margin-top: 20px;
+    background-color:#1F2039;
+    
+    div h1, p{
+        font-family: "Manrope", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 470;
+        font-style: normal;
+        text-align: center;            
+        text-decoration: none;
+       // background-color: #1F2039;
+        color: antiquewhite;
+        margin-bottom: 50px;
+      }
+
+      .img-discipline-single{        
+        margin-left: 27%;
+        width: 45%;
+        height: 35%;
+        }  
+    
+    .description{
+        text-align: center;
+        width: 90%;
+       // height: 150px;
+        margin: auto;
+    
+        font-family: "Manrope", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 470;
+        font-style: normal;
+      
+        text-align: center;            
+        text-decoration: none;
+        background-color: #1F2039;
+        color: antiquewhite;
+        text-justify: inter-word;
+       }
+}
