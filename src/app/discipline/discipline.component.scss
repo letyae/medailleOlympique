@@ -1,7 +1,7 @@
 .app-discipline-card{
     margin-top: 20px;
     
-    h2,h3,h4,p{
+    div h2{
         font-family: "Manrope", sans-serif;
         font-optical-sizing: auto;
         font-weight: 470;
@@ -13,14 +13,16 @@
         
         color: #F9F8FF;
 
-        margin-bottom: 10px;
+        margin-bottom: 20px;
       }
 }
 
 img{
-    margin-left: 40px;
-    width: 70%;
-    height: 70%;
+    margin-left:20px;
+
+    width: 90%;
+    height: 80%;
+    margin-bottom: 0px;
 }
 
 .container{
@@ -30,7 +32,7 @@ img{
 
 .text-overlay{
     position: absolute;
-    top: 0;
+    top: 10;
     left: 0;
     right: 0;
     bottom: 0; 
@@ -42,7 +44,7 @@ img{
     font-size: 1.4em;
     color: white;
     //background-color:red;
-    margin-left: 40px;
+    margin-left: 20px;
     height: 30px;
     background-color: rgba(0, 0, 0, 0.7);
     display: none;
