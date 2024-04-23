@@ -5,13 +5,13 @@
 <div class="app-discipline-card">
 
    <div  style="text-align: center;"> 
-       <h2 style="display: inline;">{{current_discipline.nom}}: </h2>  
-       <h3 style="display: inline;"> {{current_discipline.type}} </h3>
+       <h2 style="display: inline;">{{current_discipline.nom}} </h2>  
+    <!--   <h3 style="display: inline;"> {{current_discipline.type}} </h3> -->
     </div> 
 
     <div> 
         <a class="container" href="alldiscipline/{{current_discipline.id}}">
-            <img class="img-medaille" src="{{current_discipline.url}}" alt="Url medaille">
+            <img class="img-discipline" src="{{current_discipline.url}}" alt="Url medaille">
             <div class="text-overlay">Voir détail</div> 
         </a> 
     </div> 
