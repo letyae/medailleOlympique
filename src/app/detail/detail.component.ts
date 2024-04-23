@@ -19,7 +19,6 @@ export class DetailComponent implements OnInit {
   ngOnInit(): void {
     const paysId= +this.router.snapshot.params['id'];
     this.medaille=this.medailleService.getMedailleById(paysId);
-    console.log("id="+paysId)
   }
   
 }
